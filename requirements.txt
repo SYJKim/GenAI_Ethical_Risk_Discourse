@@ -1,8 +1,8 @@
 # Python environment for reproducing the analyses in:
-#   Kim, S., Kim, S. H., & Lee, B. G. (2026).
-#   An LLM-Assisted Approach for Identifying and Analyzing Ethical Risk
-#   Discourse on Generative AI in Social Media.
-#   Systems (under review).
+#   Kim, S., Yoon, C., Kim, S. H., & Lee, B. G. (2026).
+#   LLM-Based Classification and Topic Modeling of 
+#   Generative AI Ethical Risk Discourse on Social Media .
+#   Electornics (under review).
 #
 # Tested with Python 3.9 and Python 3.10.
 
