@@ -5,7 +5,7 @@ topic-to-category mapping stage of the paper. It is intended to enable
 independent coders to replicate the mapping procedure that assigned the 33
 BERTopic-derived sub-topics to the five higher-level ethical risk categories.
 
-This file mirrors **Appendix B** of the paper (Kim, Kim, & Lee, 2026).
+This file mirrors **Appendix B** of the paper (Kim, Yoon, Kim, & Lee, 2026).
 
 ## 1. Purpose
 
@@ -147,6 +147,6 @@ sphere.
 
 ## Reference
 
-Kim, S., Kim, S. H., & Lee, B. G. (2026). An LLM-Assisted Approach for
-Identifying and Analyzing Ethical Risk Discourse on Generative AI in
-Social Media. *Systems* (under review).
+Kim, S., Yoon, C., Kim, S. H., & Lee, B. G. (2026). LLM-Based Classification
+and Topic Modeling of Generative AI Ethical Risk Discourse on Social Media.
+*Electornics* (under review).
