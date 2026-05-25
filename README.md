@@ -1,10 +1,10 @@
-# An LLM-Assisted Approach for Identifying and Analyzing Ethical Risk Discourse on Generative AI in Social Media
+# LLM-Based Classification and Topic Modeling of Generative AI Ethical Risk Discourse on Social Media 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Replication materials for:
 
-> Kim, S., Kim, S. H., & Lee, B. G. (2026). *An LLM-Assisted Approach for Identifying and Analyzing Ethical Risk Discourse on Generative AI in Social Media.* Systems (under review).
+> Kim, S., Yoon, C., Kim, S. H., & Lee, B. G. (2026). *LLM-Based Classification and Topic Modeling of Generative AI Ethical Risk Discourse on Social Media.* Electronics (under review).
 
 ## Overview
 
@@ -37,7 +37,7 @@ This repository contains the code, prompts, tweet IDs, classification labels, an
 │   ├── human_annotation_385.csv            # 385 IDs with human and four LLM labels
 │   ├── gpt_4_1_full_labels.csv             # 48,398 IDs with GPT-4.1 labels
 │   ├── gpt_3_5_turbo_full_labels.csv       # 48,398 IDs with GPT-3.5-turbo labels
-│   ├── filtering_audit_100.csv             # 100 excluded tweets, coded for risk presence
+│   ├── filtering_audit_300.csv             # 300 excluded tweets, coded for risk presence
 │   ├── topic_category_mapping.csv          # 33 topics with two independent coders + reconciled label
 │   ├── supervised_baseline_performance.csv # out-of-fold metrics for supervised baselines
 │   ├── supervised_baseline_oof_predictions.csv  # per-tweet out-of-fold predictions
@@ -78,7 +78,7 @@ Users who only need to reproduce downstream analyses (evaluation, McNemar's test
 | `human_annotation_385.csv` | 385 | Validation sample with independent human labels (`coder_A_label`, `coder_B_label`), reconciled `Gold_label`, and four LLM labels (`gpt_4_1_label`, `gpt_3_5_turbo_label`, `claude_sonnet_4_6_label`, `gemini_2_5_pro_label`) |
 | `gpt_4_1_full_labels.csv` | 48,398 | Full candidate corpus with GPT-4.1 zero-shot labels |
 | `gpt_3_5_turbo_full_labels.csv` | 48,398 | Full candidate corpus with GPT-3.5-turbo zero-shot labels |
-| `filtering_audit_100.csv` | 100 | Random sample from pre-screening-excluded tweets, coded for risk presence |
+| `filtering_audit_300.csv` | 300 | Random sample from pre-screening-excluded tweets, coded for risk presence |
 | `topic_category_mapping.csv` | 33 | Non-outlier BERTopic topics with two independent coders' labels (`Label_A`, `Label_B`), reconciled `Gold_label`, topic name, document count, and top keywords |
 | `supervised_baseline_performance.csv` | 5 | Out-of-fold metrics for TF-IDF+LR, BERTweet, RoBERTa, GPT-3.5-turbo, GPT-4.1 |
 | `supervised_baseline_oof_predictions.csv` | 385 | Per-tweet out-of-fold predictions from the five models |
@@ -188,9 +188,9 @@ The coherence calculation reuses the same tokenization pipeline (CountVectorizer
 
 ```bibtex
 @article{kim2026llm,
-  title   = {An LLM-Assisted Approach for Identifying and Analyzing Ethical Risk Discourse on Generative AI in Social Media},
-  author  = {Kim, Soyon and Kim, Soo Hyung and Lee, Bong Gyou},
-  journal = {Systems},
+  title   = {LLM-Based Classification and Topic Modeling of Generative AI Ethical Risk Discourse on Social Media },
+  author  = {Kim, Soyon and Yoon, Cheolhee, and Kim, Soo Hyung and Lee, Bong Gyou},
+  journal = {Electronics},
   year    = {2026},
   note    = {Under review}
 }
