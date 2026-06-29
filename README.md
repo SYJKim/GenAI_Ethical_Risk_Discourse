@@ -42,6 +42,16 @@ This repository contains the code, prompts, tweet IDs, classification labels, an
 │   ├── supervised_baseline_performance.csv # out-of-fold metrics for supervised baselines
 │   ├── supervised_baseline_oof_predictions.csv  # per-tweet out-of-fold predictions
 │   └── mcnemar_pairwise_results.csv        # six pairwise McNemar results
+├── fewshot/
+│   ├── 260310_df_385_final.csv             # 385-sample validation dataset used for few-shot evaluation
+│   ├── fewshot_examples_20.csv             # fixed 20-example few-shot prompt set
+│   ├── fewshot_validation_experiment.ipynb # notebook for four-LLM few-shot validation experiments
+│   └── results/
+│       ├── gpt-4.1_predictions.csv         # GPT-4.1 few-shot prediction outputs
+│       ├── gpt-3.5-turbo_predictions.csv   # GPT-3.5-turbo few-shot prediction outputs
+│       ├── claude-sonnet-4-6_predictions.csv # Claude Sonnet 4.6 few-shot prediction outputs
+│       ├── gemini-2.5-pro_predictions.csv  # Gemini 2.5 Pro few-shot prediction outputs
+│       └── model_comparison.csv            # few-shot performance comparison across LLMs
 └── prompts/
     ├── primary_prompt.txt                  # primary classification prompt (paper Appendix A.2)
     ├── variant_a_minimal.txt               # prompt robustness Variant A
