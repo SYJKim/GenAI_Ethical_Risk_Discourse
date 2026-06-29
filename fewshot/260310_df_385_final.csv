@@ -1,0 +1,386 @@
+﻿date,id,username,like_count,retweet_count,matched_keywords,gpt_label,gpt_3_5_label,SY_label,SH_label,Gold_label
+2023-01-11,1.61298E+18,jerome_massot,0,0,"['risk', 'responsibility', 'risk']",1,1,1,1,1
+2023-02-15,1.62581E+18,devmlops,1,1,['explain'],0,0,0,0,0
+2023-03-27,1.64021E+18,usrbinkat,3,0,['trustworthy'],1,0,1,1,1
+2023-01-29,1.61968E+18,genAI_insights,0,0,['automated'],0,1,1,0,1
+2023-03-14,1.6357E+18,ErickRo96874203,0,0,['biased'],1,1,1,1,1
+2023-03-28,1.6407E+18,CyberNoirArmy,2,0,['trust'],0,0,0,0,0
+2023-03-22,1.63856E+18,DennisL73061433,0,0,['explain'],0,0,0,0,0
+2023-02-19,1.62726E+18,SAMURAIGG4,0,0,['fairly'],0,0,0,0,0
+2023-02-24,1.62915E+18,DanBuk4,2,1,"['labors', 'safiyanoble']",0,0,0,0,0
+2023-01-19,1.61609E+18,TAHK2030,0,1,['sustainability'],0,0,0,0,0
+2023-01-29,1.61957E+18,1ethiopia_,3,1,['response'],0,0,0,0,0
+2023-02-22,1.62841E+18,NaomiLi14590801,0,0,['justice'],0,1,0,0,0
+2023-02-26,1.62981E+18,Daviid_Smithh,0,0,"['trust', 'trust']",1,0,1,1,1
+2023-03-25,1.63959E+18,HWdomains,1,0,['automation'],0,0,0,0,0
+2023-03-15,1.63581E+18,colourmeamused_,1,0,"['ethical', 'misinformation']",1,1,1,1,1
+2023-03-02,1.63136E+18,ArcadeSandwich,1,0,['risk'],0,0,0,0,0
+2023-01-24,1.61784E+18,IndiaUnleashed_,8,4,"['response', 'biased']",1,0,1,1,1
+2023-01-08,1.61219E+18,HedgeThink,0,1,"['responsibly', 'ethically', 'ethics']",0,0,1,1,1
+2023-01-25,1.61804E+18,jvitech,0,0,['inject'],1,1,1,1,1
+2023-01-24,1.61777E+18,o_emmaculate,0,0,['explain'],0,0,0,0,0
+2023-03-12,1.63499E+18,LIGHT_YAGAAMI_,0,0,['automate'],0,0,0,0,0
+2023-02-04,1.62193E+18,George_E_McD,0,0,['misinformation'],1,1,1,1,1
+2023-03-20,1.63776E+18,CrazedPub,0,0,"['ethics', 'safety']",1,0,1,1,1
+2023-02-12,1.62488E+18,koblovinamerica,1,0,['bias'],0,0,1,1,1
+2023-02-27,1.63025E+18,BUexperts,11,4,"['ethics', 'ethical']",0,1,0,0,0
+2023-03-14,1.63548E+18,8ra5hEmu5,0,0,"['privacy', 'privacy']",1,1,1,1,1
+2023-01-28,1.61946E+18,IR_Nolden,1,0,['explain'],0,0,0,0,0
+2023-02-03,1.62142E+18,Saman_Razavi,39,2,['response'],0,0,0,0,0
+2023-03-08,1.6333E+18,wavetossed,1,1,['government'],0,0,0,0,0
+2023-03-14,1.63561E+18,jaypalter,0,0,['ethical'],1,1,1,1,1
+2023-03-12,1.63486E+18,hamerlik,2,0,['automations'],0,0,0,0,0
+2023-01-31,1.62028E+18,KharbSaurav,6,2,['safe'],0,0,0,0,0
+2023-02-16,1.62617E+18,InvestShanghai,14,5,"['regulations', 'governance']",0,0,0,0,0
+2023-03-21,1.63816E+18,WaltDatedWorld,2,1,['misinformation'],1,1,1,1,1
+2023-01-14,1.61426E+18,2w1s7ed,1,0,"['security', 'ethical']",1,1,1,1,1
+2023-01-18,1.6157E+18,Khulood_Almani,8,1,['labordeolivier'],0,0,0,0,0
+2023-02-01,1.62078E+18,jeffld,1,0,"['biased', 'bias', 'bias', 'response']",1,1,1,1,1
+2023-01-06,1.61117E+18,CharliePackin,0,0,['automated'],0,0,0,0,0
+2023-01-26,1.61855E+18,AllottsPR,0,0,['accounts'],0,0,0,0,0
+2023-03-13,1.63532E+18,liwaiwaicom,3,4,"['trustworthy', 'automation']",0,0,0,0,0
+2023-02-10,1.62395E+18,Metaverse_Hub,5,0,['responsible'],0,0,0,0,0
+2023-01-18,1.61559E+18,LessonSilent,8,4,['secure'],0,0,1,1,1
+2023-02-01,1.62089E+18,TechAID_CO,3,2,['response'],0,0,0,0,0
+2023-01-17,1.61543E+18,SandipWalke,0,0,['response'],0,0,0,0,0
+2023-01-11,1.61312E+18,premiermotorske,5,0,['safaricomexposed'],0,0,0,0,0
+2023-02-18,1.62695E+18,BestViews9,0,0,"['regulations', 'safety', 'ethics', 'fairness', 'regulations']",1,0,1,1,1
+2023-02-14,1.62545E+18,ETribuneTech,0,0,['security'],1,0,1,1,1
+2023-01-06,1.61139E+18,timFinin,0,0,['risks'],1,1,1,1,1
+2023-02-22,1.62843E+18,smbeaverson,1,0,"['privacy', 'safeguards']",1,0,1,1,1
+2023-03-10,1.63425E+18,edu_cabe,6,1,['explain'],0,0,0,0,0
+2023-03-24,1.63934E+18,bumbomckgumbo,1,0,"['manipulators', 'disinformation']",1,1,1,1,1
+2023-02-08,1.62336E+18,UW_CSTV,0,0,['explains'],1,1,1,1,1
+2023-03-11,1.63452E+18,HRDCommunity,0,0,['automation'],0,0,0,0,0
+2023-03-01,1.63085E+18,MayaSmi56979381,0,0,"['biased', 'biased']",1,1,1,1,1
+2023-02-23,1.62882E+18,ibrahimhooper,3,0,['bias'],1,1,1,1,1
+2023-02-18,1.6269E+18,Jigglett2,0,0,['ethics'],0,0,0,0,0
+2023-01-10,1.61274E+18,bamitav,1,1,"['privacy', 'security']",1,1,1,1,1
+2023-02-24,1.62917E+18,BrentAAnders,5,2,['response'],0,0,0,0,0
+2023-02-09,1.6235E+18,CreditBytes,0,0,['response'],0,1,0,0,0
+2023-02-13,1.62493E+18,DouglasHarden,0,0,['biases'],1,1,1,1,1
+2023-01-13,1.61402E+18,DigiNew5,1,0,['bias'],1,1,1,1,1
+2023-02-03,1.62146E+18,MessengerPeople,1,1,['risk'],0,1,1,1,1
+2023-02-23,1.62877E+18,Story0fbooks,0,3,['copyright'],0,0,0,0,0
+2023-03-03,1.63161E+18,sonu_monika,21,15,['automation'],0,0,0,0,0
+2023-01-12,1.61362E+18,EaeTissot,1,0,['response'],0,0,0,0,0
+2023-02-09,1.62377E+18,MalakAbed,1,0,['hallucination'],0,0,0,0,0
+2023-01-25,1.61812E+18,et_insights,0,0,['safe'],0,0,0,0,0
+2023-03-16,1.63642E+18,cr_zilla,1,0,['risk'],0,0,0,0,0
+2023-02-21,1.62814E+18,EricWeishaar,1,0,"['propaganda', 'surveil']",1,1,1,1,1
+2023-02-04,1.62186E+18,avshieshap,0,1,['explaining'],0,0,0,0,0
+2023-02-23,1.62868E+18,Chenjuan,0,0,['security'],1,1,1,1,1
+2023-03-22,1.63845E+18,YETNEWS1,0,0,['safe'],1,1,1,1,1
+2023-03-27,1.64036E+18,rural_gis,2,0,['interpreting'],0,0,0,0,0
+2023-01-31,1.62033E+18,RoryHades,1,0,['security'],1,1,1,1,1
+2023-02-03,1.62164E+18,DaxxTrader,14,0,"['safe', 'safe']",0,0,0,0,0
+2023-02-14,1.6255E+18,dannyjpalmer,0,1,['response'],1,1,1,1,1
+2023-01-15,1.6147E+18,NikhilY12373321,0,0,['explained'],0,0,0,0,0
+2023-03-17,1.63687E+18,EONRealityInc,3,1,"['risk', 'safe', 'safe']",0,0,0,0,0
+2023-03-15,1.63599E+18,uktaxcalculator,0,0,['governemnt'],0,0,0,0,0
+2023-02-12,1.62466E+18,visual_DK,0,0,['account'],0,0,0,0,0
+2023-01-08,1.61211E+18,LuxeBudgetGurl,0,0,['biased'],0,0,1,1,1
+2023-03-05,1.63245E+18,ChatGPTInsights,27,9,"['risk', 'automation']",0,0,0,0,0
+2023-03-25,1.63952E+18,AIGPTInsights,0,0,['sustainability'],0,0,0,0,0
+2023-02-21,1.62806E+18,cacpgt,0,0,['privacy'],0,0,0,0,0
+2023-01-30,1.62003E+18,ronald_fischer,8,0,"['misinformation', 'responses', 'response']",1,1,1,1,1
+2023-01-16,1.6149E+18,immuniweb,3,2,['security'],1,0,1,1,1
+2023-01-11,1.61326E+18,DarinRMcClure,0,0,['safe'],0,0,0,0,0
+2023-02-21,1.62816E+18,Playbaba2015,0,0,['fairytale'],0,0,0,0,0
+2023-02-24,1.62915E+18,rokazi,0,0,['responses'],0,0,0,0,0
+2023-01-25,1.61836E+18,IEthics,1,4,['ethics'],1,0,1,1,1
+2023-01-13,1.6139E+18,DesignedBy_Us,3,3,['labor'],0,0,0,0,0
+2023-02-22,1.62854E+18,esetaustralia,4,0,['security'],1,1,0,0,0
+2023-01-26,1.61875E+18,newmanmartin,1,0,['explaining'],1,0,1,1,1
+2023-02-17,1.62654E+18,alexanderjgallo,0,0,['response'],0,0,0,0,0
+2023-02-09,1.62363E+18,decivory,0,0,['automated'],0,0,0,0,0
+2023-02-28,1.6307E+18,cichuck,0,0,['regulatory'],0,0,0,0,0
+2023-02-20,1.62749E+18,Techinsight_my,0,0,"['risk', 'risk']",1,1,1,1,1
+2023-03-18,1.63718E+18,michaelsklar,11,0,['trust'],0,0,0,0,0
+2023-03-24,1.63933E+18,madmax212121,0,0,['regulation'],1,1,1,1,1
+2023-01-29,1.61949E+18,discoordinated,1,0,['responsibilities'],1,0,1,1,1
+2023-03-01,1.6308E+18,dwdeeds,0,0,['automation'],0,0,0,0,0
+2023-03-28,1.64077E+18,amperlycom,0,0,"['disinformation', 'ethical']",1,1,1,1,1
+2023-03-13,1.63522E+18,foyerwork,1,1,['explained'],0,0,0,0,0
+2023-02-21,1.62804E+18,popietom,0,0,"['biased', 'propaganda']",1,1,1,1,1
+2023-03-28,1.64073E+18,acotino,0,0,['accounts'],1,1,0,0,0
+2023-02-28,1.63065E+18,editsxjames,1,0,['regulated'],0,0,0,0,0
+2023-02-06,1.62265E+18,EthanThomasR,0,0,['biased'],1,1,1,1,1
+2023-03-17,1.63676E+18,aaronguilmette,1,0,"['disinformation', 'bias']",1,1,1,1,1
+2023-03-23,1.63889E+18,VaidasSimkus,16,2,['automating'],0,0,0,0,0
+2023-02-25,1.62957E+18,benjiDev19,2,0,['automate'],0,0,0,0,0
+2023-03-27,1.64022E+18,kaelinralav,3,0,['response'],0,0,0,0,0
+2023-02-04,1.62187E+18,e_xi1,1,0,['responses'],0,0,0,0,0
+2023-03-23,1.63897E+18,zer0int1,1,0,['hallucinate'],0,0,0,0,0
+2023-02-21,1.6281E+18,tuliskaist,0,0,['responsibly'],0,0,0,0,0
+2023-02-21,1.62815E+18,amlug,0,0,['response'],0,0,0,0,0
+2023-01-05,1.61106E+18,Jaimisindustrie,0,0,"['transparency', 'transparency']",0,0,0,0,0
+2023-01-18,1.61565E+18,ManojKu41489672,0,0,"['regulatory', 'ethical']",0,1,1,1,1
+2023-02-19,1.6272E+18,Steve_Lockstep,4,0,['account'],1,0,1,1,1
+2023-03-21,1.63821E+18,FelipeDaragon,0,0,['privacy'],1,0,0,0,0
+2023-01-10,1.61288E+18,tou55aint,4,0,['explain'],0,0,0,0,0
+2023-02-09,1.62348E+18,HippBilly,5,1,"['biased', 'manipulated']",1,1,1,1,1
+2023-02-21,1.62807E+18,Prof_AA_Franco,14,4,['automated'],0,0,0,0,0
+2023-03-27,1.64046E+18,xsteenbrugge,21,1,['security'],1,1,1,0,1
+2023-03-10,1.6342E+18,tweep911,0,0,['dignity'],0,0,0,0,0
+2023-01-05,1.6108E+18,AsubhaGfx,0,0,['responsible'],0,0,1,1,1
+2023-03-19,1.63731E+18,Kdunham4peace,0,0,['labor'],0,1,0,0,0
+2023-02-03,1.62158E+18,RudyvanEtten,0,0,"['explain', 'explain']",0,0,0,0,0
+2023-02-23,1.62879E+18,Simranj57588571,1,0,['autonomous'],0,0,0,0,0
+2023-03-14,1.63557E+18,org_scp,32,19,['security'],1,1,1,1,1
+2023-01-05,1.61089E+18,co66u,0,0,['harm'],1,0,0,0,0
+2023-01-11,1.61331E+18,AXIA_tel,9,1,['responses'],0,0,0,0,0
+2023-03-17,1.63671E+18,ClassTechTips,2,1,['responses'],0,0,0,0,0
+2023-03-29,1.64121E+18,iamhilarry3090,1,0,['safety'],0,0,0,0,0
+2023-02-06,1.62261E+18,ThePulse_one,1,0,['ethics'],1,1,1,1,1
+2023-02-20,1.62762E+18,eugeneyiga,0,0,"['misinformation', 'disinformation']",1,1,1,1,1
+2023-01-11,1.61317E+18,TeflonTommy2,1,0,['risk'],1,1,1,1,1
+2023-01-22,1.61727E+18,LanceEliot,5,2,"['ethics', 'autonomousvehicles', 'ethicsinai']",0,0,1,0,0
+2023-02-19,1.62714E+18,DomPachino101,0,0,"['biases', 'biases']",1,1,1,1,1
+2023-03-26,1.64007E+18,daryl_imagineai,29,5,['accounts'],0,0,0,0,0
+2023-03-25,1.6397E+18,GumVue,4,2,['automatic1111'],0,0,0,0,0
+2023-02-08,1.62333E+18,frontierindica,5,0,['response'],0,0,0,0,0
+2023-02-18,1.62709E+18,PaulBabatuyi,0,0,['accounting'],1,1,1,1,1
+2023-01-24,1.61796E+18,kaitduffy,7,0,['trust'],0,0,0,0,0
+2023-01-10,1.6128E+18,pfare_nel,1,0,['security'],1,0,0,0,0
+2023-03-18,1.63704E+18,2ManyOfUs,0,0,['government'],0,0,0,0,0
+2023-03-17,1.6367E+18,chidambara09,0,0,['labordeolivier'],1,0,1,1,1
+2023-01-20,1.6165E+18,leo_aristodemou,0,0,['explain'],0,0,0,0,0
+2023-03-07,1.63295E+18,hackerrank_AtoZ,0,0,"['account', 'safety']",1,1,0,0,0
+2023-01-16,1.61493E+18,XcursionRS,0,0,"['fairs', 'risk', 'risk', 'riskmanagement', 'safetyculture']",0,0,0,0,0
+2023-03-23,1.63904E+18,Bitcoin_Korea,0,0,['risk'],0,0,0,0,0
+2023-03-10,1.63414E+18,StephenWatt_,0,0,['governor'],1,0,1,1,1
+2023-03-22,1.63862E+18,forgottentvshow,1,0,['securitynow'],1,1,0,0,0
+2023-01-07,1.61154E+18,PhilippeJB_PJB,0,1,['explainer'],0,0,0,0,0
+2023-01-27,1.61908E+18,5thangel9,3,0,['accountin'],0,0,0,0,0
+2023-02-02,1.62126E+18,benedikt_unger,6,1,['trust'],0,0,1,1,1
+2023-03-09,1.63383E+18,BosparPR,3,1,['automated'],0,0,0,0,0
+2023-02-16,1.62618E+18,thetatvaindia,258,15,['responses'],0,0,0,0,0
+2023-01-15,1.61465E+18,almodozo,0,0,['risks'],1,1,0,0,0
+2023-02-16,1.62609E+18,SylvainDucharm2,1,0,['propaganda'],0,0,0,0,0
+2023-02-03,1.62164E+18,cdalton09,0,1,['risk'],1,1,1,1,1
+2023-03-14,1.63569E+18,AINews4Humans,0,0,['fairness'],0,0,0,0,0
+2023-03-08,1.63342E+18,TEBReview,2,0,['trust'],1,1,1,1,1
+2023-03-26,1.64014E+18,robinhosain,0,0,['response'],1,0,1,1,1
+2023-03-15,1.63602E+18,IncruxTech,3,2,"['explaining', 'security']",0,0,0,0,0
+2023-03-06,1.6327E+18,yun548,0,0,['harm'],1,1,1,0,1
+2023-03-24,1.63923E+18,Terry_Djony,0,0,['automate'],0,0,0,0,0
+2023-03-03,1.63162E+18,dr_med_ivanhoe,1,0,['injection'],1,0,0,0,0
+2023-01-23,1.61765E+18,haylie_miller,5,0,['copyright'],1,0,1,1,1
+2023-02-15,1.62579E+18,SwissCognitive,3,1,"['responsibly', 'responsibleai']",0,0,1,1,1
+2023-02-14,1.62533E+18,ConorEForde,0,0,['safe'],0,0,0,0,0
+2023-02-08,1.62315E+18,thomas_iver,0,0,"['fairly', 'bias']",0,0,1,1,1
+2023-03-29,1.64111E+18,GIitchyMagic,1,0,['response'],0,0,0,0,0
+2023-03-26,1.63986E+18,orfonline,1,1,"['security', 'safeguards']",1,1,1,1,1
+2023-02-17,1.62658E+18,OfferNotValid,0,0,"['biased', 'biases']",1,1,1,1,1
+2023-02-02,1.62094E+18,Tom,0,0,['copyright'],0,0,0,0,0
+2023-03-27,1.64036E+18,ShagunTripathi,1,0,['account'],0,0,0,0,0
+2023-02-08,1.62335E+18,DHuts_,3,0,['response'],0,0,1,1,1
+2023-02-26,1.62998E+18,KirkDBorne,5,1,['automatically'],0,0,0,0,0
+2023-01-11,1.61307E+18,MichaelMugendii,2,2,"['sustainability', 'governor', 'safaricom']",0,0,0,0,0
+2023-02-01,1.62085E+18,McProulx,0,0,['response'],0,0,0,0,0
+2023-01-28,1.61936E+18,AxelMerk,1,0,['biased'],1,1,1,1,1
+2023-01-22,1.61717E+18,srini_tp,1,0,['explainability'],0,0,0,0,0
+2023-02-04,1.62186E+18,KitsuneDomi,0,0,['biased'],1,1,1,1,1
+2023-03-26,1.63985E+18,annepremscart,0,0,"['account', 'account', 'account', 'accounts']",0,0,0,0,0
+2023-02-09,1.62374E+18,Enter_Quantum,2,1,['explaining'],0,0,1,0,0
+2023-02-11,1.62442E+18,Make70sGreat,48,38,['propaganda'],1,1,1,1,1
+2023-01-30,1.62E+18,kate_eviva,1,0,['response'],0,0,0,0,0
+2023-01-13,1.6138E+18,WhiteAero,2,1,"['responsible', 'harm']",1,1,1,1,1
+2023-02-02,1.62104E+18,AlverNft,3,0,"['misinformation', 'trust', 'trust']",1,1,1,0,1
+2023-02-11,1.62449E+18,jackattack5837,5,0,['response'],0,0,0,0,0
+2023-03-21,1.63815E+18,GoAgio,0,0,['security'],1,1,1,1,1
+2023-03-09,1.63394E+18,HRportal,0,0,['trustworthy'],1,0,0,0,0
+2023-02-20,1.62755E+18,warrbo,0,0,['interpretations'],0,0,0,0,0
+2023-02-13,1.62492E+18,krishanvadher,0,0,['automatedsarcasmgenerator'],0,0,0,0,0
+2023-02-23,1.6288E+18,GreekFreako,6,0,['privacy'],0,0,0,0,0
+2023-01-23,1.61744E+18,stormeducation,0,0,['copyright'],1,1,1,1,1
+2023-02-18,1.62702E+18,Drew_TandB,1,0,['response'],0,0,0,0,0
+2023-02-23,1.62876E+18,textrixx,1,0,['trustworthiness'],1,0,1,1,1
+2023-03-02,1.63132E+18,StewartGandolf,0,0,['trusted'],1,0,1,1,1
+2023-02-28,1.63059E+18,rpfeist,0,0,['ethical'],0,0,0,0,0
+2023-03-24,1.63934E+18,AlanMuttonUK,0,1,['automation'],0,0,0,0,0
+2023-03-22,1.63848E+18,Transform_Sec,4,6,['security'],0,0,0,0,0
+2023-02-16,1.62614E+18,DrJStorm,0,0,['response'],0,0,0,0,0
+2023-02-28,1.63041E+18,jeffturner,2,0,"['ethics', 'bias']",1,1,1,1,1
+2023-01-08,1.61215E+18,Iosac_Coleman,0,0,['propaganda'],1,0,0,0,0
+2023-01-10,1.61277E+18,sayy_hassan,3,1,['governor'],0,0,0,0,0
+2023-03-21,1.63824E+18,TechGalore3,3,0,['explain'],0,0,0,0,0
+2023-03-05,1.63246E+18,CheckPoint_NL,1,1,['safe'],1,1,1,1,1
+2023-01-27,1.61899E+18,Alex_NAVCA,12,0,"['explaining', 'explain']",0,0,0,0,0
+2023-01-30,1.62012E+18,st3world,0,0,"['autonomous', 'automation']",0,0,0,0,0
+2023-01-18,1.61562E+18,Prajafoundation,13,5,"['response', 'response']",0,0,0,0,0
+2023-03-22,1.63858E+18,ClareConboy,6,4,['response'],0,0,0,0,0
+2023-02-03,1.62147E+18,eutytoalba,0,0,"['misinformationoftheday', 'misinformation']",0,0,0,1,0
+2023-01-17,1.6153E+18,PhilippeJB_PJB,0,0,['responses'],0,0,0,0,0
+2023-01-19,1.616E+18,behiver1,4,1,"['risks', 'bias', 'explainability', 'privacy']",1,1,1,1,1
+2023-03-18,1.63712E+18,GribbleYell,4,0,['jailbreak'],0,0,1,1,1
+2023-03-05,1.6323E+18,pr_pramit,0,0,"['trusted', 'responses', 'responses']",1,0,1,1,1
+2023-03-29,1.64107E+18,iam_razasyed,10,0,['responses'],0,0,0,0,0
+2023-02-22,1.62832E+18,Bolster,0,0,['response'],0,0,0,0,0
+2023-03-20,1.63784E+18,DrDataScientist,1,1,['hallucinating'],0,0,0,0,0
+2023-01-18,1.6156E+18,hackerrank_AtoZ,3,1,"['ethical', 'ethicalhacking']",0,0,0,0,0
+2023-02-20,1.62778E+18,Vagish,0,0,['automating'],0,0,0,0,0
+2023-01-14,1.61406E+18,mozzeph,1,0,['fair'],0,0,0,0,0
+2023-02-23,1.62878E+18,hack_git,40,8,"['injections', 'injections', 'injections']",1,1,1,1,1
+2023-02-11,1.62447E+18,FrRonconi,13,12,['labordeolivier'],0,0,0,0,0
+2023-01-06,1.61135E+18,rhozacc,0,0,['account'],0,0,0,0,0
+2023-01-31,1.6205E+18,medlmobile,1,0,['harmoniously'],1,0,0,0,0
+2023-02-10,1.62399E+18,thegavinchase,0,0,['interpretation'],0,0,0,0,0
+2023-03-09,1.63385E+18,iqonic_ai,2,1,"['autonomous', 'regulations']",0,0,0,0,0
+2023-01-15,1.61455E+18,CjitMorgan,1,0,['fair'],0,0,0,0,0
+2023-01-25,1.61828E+18,emberit,0,0,['safeguard'],1,1,1,1,1
+2023-01-30,1.61996E+18,web3_stories,3,0,"['secure', 'safe']",0,0,0,0,0
+2023-02-24,1.62918E+18,RemixInstitute,1,1,"['automation', 'automation', 'automation', 'automate']",0,1,1,1,1
+2023-03-20,1.63784E+18,mikeharrisNY,4,0,['automated'],0,1,0,0,0
+2023-02-10,1.62408E+18,sohaibshaheen,1,1,"['trust', 'biased']",1,1,1,1,1
+2023-03-28,1.64066E+18,CyberGuardNews,1,0,['accounts'],1,1,0,0,0
+2023-02-12,1.62482E+18,mhj050178,1,0,"['propaganda', 'misinformation']",1,1,1,1,1
+2023-02-22,1.62838E+18,MrJerritHistory,0,0,['response'],0,0,0,0,0
+2023-02-07,1.62287E+18,teachertwit2,0,0,['biased'],1,1,1,1,1
+2023-02-02,1.62124E+18,DWatchdawgs,0,0,"['security', 'risk']",0,0,0,0,0
+2023-01-14,1.61405E+18,marcovce,10,1,['sustainability'],0,0,0,0,0
+2023-03-22,1.63851E+18,corixpartners,3,3,['security'],1,0,1,1,1
+2023-01-17,1.6154E+18,Voyager1000,0,0,['automated'],0,0,0,0,0
+2023-02-01,1.62083E+18,SEOVabMedia,0,0,['bias'],1,1,1,1,1
+2023-02-16,1.62628E+18,zer0int1,2,0,['hallucinations'],1,1,1,0,0
+2023-03-15,1.63605E+18,k47news,3,0,['justiceforlucy'],0,1,0,0,0
+2023-03-20,1.63785E+18,DataScience_b,1,0,['hallucinating'],0,0,0,0,0
+2023-03-26,1.63984E+18,Dangerouslytal,1,0,['response'],0,0,0,0,0
+2023-03-24,1.63937E+18,ECrypto0,31,4,['safely'],0,0,0,0,0
+2023-02-13,1.62516E+18,DavidJBianco,0,0,['trustworthy'],0,0,0,0,0
+2023-02-02,1.62109E+18,bdam,1,2,['explain'],0,0,0,0,0
+2023-03-24,1.63919E+18,IntlFinanceMag,0,0,['interpreter'],0,0,0,0,0
+2023-01-14,1.61411E+18,onekindcoach,1,0,['ethics'],0,0,0,0,0
+2023-03-14,1.63575E+18,CQuerard,0,0,['biases'],1,0,1,1,1
+2023-03-29,1.64107E+18,itslearning,3,2,['responsibly'],1,0,1,0,1
+2023-03-11,1.63451E+18,PhABCD,12,1,['safe'],0,0,0,0,0
+2023-01-30,1.62012E+18,teamINBOUNDtm,0,0,['fair'],0,0,0,0,0
+2023-03-22,1.63857E+18,Sam0x90,0,0,['security'],0,1,0,0,0
+2023-02-15,1.62594E+18,mkarpushko,1,0,['response'],0,0,1,0,0
+2023-01-09,1.61237E+18,HamishMacEwan,0,0,['response'],0,0,0,0,0
+2023-03-23,1.63903E+18,Dictator_Mishra,0,0,['trust'],1,1,1,0,1
+2023-02-08,1.62339E+18,honestarguemen1,0,0,['trusted'],1,1,1,0,1
+2023-02-01,1.62069E+18,BernieSpofforth,1293,442,"['propaganda', 'trusted']",1,1,1,1,1
+2023-03-13,1.63535E+18,edeiller,0,0,['accounts'],1,1,1,0,1
+2023-02-15,1.62587E+18,akhmedov_salym,0,0,"['explain', 'response']",0,0,0,0,0
+2023-03-22,1.63858E+18,magrom,3,0,['governance'],0,0,0,0,0
+2023-01-30,1.61987E+18,ezana4u,0,1,['response'],0,0,0,0,0
+2023-03-26,1.64005E+18,UpbeatFuture,0,0,['account'],0,0,0,0,0
+2023-02-20,1.62756E+18,alllIMnews,0,0,['automation'],0,0,0,0,0
+2023-02-24,1.62893E+18,Name3828429,1,0,"['security', 'privacy']",0,0,0,0,0
+2023-01-09,1.61234E+18,dsivakumar,0,0,['hallucination'],1,0,1,0,1
+2023-03-07,1.633E+18,BBacktesting,1,0,['responses'],0,0,0,0,0
+2023-02-08,1.62343E+18,cfryant,4,2,['jailbreak'],1,1,1,0,1
+2023-02-17,1.62671E+18,mosesmoses56,2,0,['safe'],1,1,1,1,1
+2023-03-21,1.6381E+18,newhumanitarian,9,5,['response'],0,0,0,0,0
+2023-02-15,1.62589E+18,MostAdvancedBot,1,1,"['automation', 'automating']",0,0,0,0,0
+2023-03-02,1.63136E+18,Stevesontilt,3,1,['response'],1,1,0,0,0
+2023-02-03,1.62143E+18,Editage,1,0,['responses'],0,0,0,0,0
+2023-03-25,1.63957E+18,ORFMumbai,1,0,['safeguards'],1,1,1,1,1
+2023-03-02,1.63132E+18,AnthonyGrauci,1,0,['justice'],1,1,1,1,1
+2023-03-03,1.63175E+18,88_idlegod,0,0,['bias'],0,1,1,0,1
+2023-03-16,1.63629E+18,TowardsCybersec,2,1,"['accounts', 'accounts', 'security']",1,1,1,0,1
+2023-02-17,1.62658E+18,AndrewinContact,12,8,['ethics'],0,0,0,0,0
+2023-02-24,1.62914E+18,IQ2US,7,5,"['harm', 'trust']",1,1,1,0,1
+2023-02-06,1.62255E+18,_doinkmachine,7,0,['transparency'],1,0,1,0,1
+2023-01-18,1.6155E+18,cueinc,3,1,['ethical'],0,0,0,0,0
+2023-02-10,1.62411E+18,anthonya,0,0,"['privacy', 'privacy']",1,1,1,1,1
+2023-02-06,1.62263E+18,ChatAIGPT,1,0,['ethics'],1,1,1,0,1
+2023-02-08,1.62332E+18,mindkosh,2,0,['trusted'],0,0,0,0,0
+2023-02-09,1.62371E+18,DJ_Gadfly,2,0,['explain'],0,0,0,0,0
+2023-03-14,1.63561E+18,TimDykstra71,0,0,['automated'],0,0,0,0,0
+2023-02-07,1.62289E+18,ChanduVarmaK1,0,0,['laboratory'],0,0,0,0,0
+2023-02-17,1.62663E+18,eager28,0,0,"['explains', 'responses', 'biased']",1,0,1,1,1
+2023-03-20,1.63779E+18,StefanosChrs,2,0,['safe'],0,0,1,1,1
+2023-01-04,1.61054E+18,boringsage,1,0,['responses'],0,0,0,0,0
+2023-03-17,1.63673E+18,lopezbryan__,0,0,['government'],0,0,0,0,0
+2023-03-02,1.63118E+18,drunk_chatgpt,1,1,['jailbreak'],0,0,0,0,0
+2023-02-02,1.62124E+18,sureal808,0,0,['bias'],1,1,1,1,1
+2023-02-09,1.62372E+18,ConnectionsMktg,0,0,['responsible'],0,0,0,0,0
+2023-02-09,1.62368E+18,PROPHETzeep,0,0,['bias'],1,0,1,0,1
+2023-02-06,1.62271E+18,c_a_schiller,0,0,['response'],0,0,0,0,0
+2023-03-27,1.6404E+18,mparmar47,0,0,['safeguards'],0,0,0,0,0
+2023-02-24,1.62915E+18,NightLightNews,0,0,['autonomy'],0,0,0,0,0
+2023-03-19,1.63753E+18,MelissaOnline,2,0,['safety'],1,1,1,1,1
+2023-03-15,1.63604E+18,LDamnit,1,1,['guardrails'],0,0,1,0,0
+2023-02-05,1.62226E+18,cosmofintech,0,0,['risks'],0,1,0,1,0
+2023-03-01,1.63074E+18,mohammadali_im,0,0,['justice'],0,0,0,0,0
+2023-03-15,1.63585E+18,skeejen,0,0,['bias'],1,0,1,0,1
+2023-02-21,1.62807E+18,scottswigart,2,1,['risks'],1,1,1,1,1
+2023-01-12,1.61336E+18,BirdStrikeBot,0,0,['safety'],0,0,0,0,0
+2023-02-01,1.62079E+18,EveningStandard,1,2,['regulation'],0,0,0,0,0
+2023-02-02,1.62109E+18,zarkadakis,0,0,['governance'],0,0,0,0,0
+2023-01-11,1.61322E+18,netsolutions,0,0,['responses'],0,0,0,0,0
+2023-03-25,1.63943E+18,cherthedev,2,0,['ethics'],0,1,1,1,1
+2023-02-13,1.62492E+18,Cosmic0rigins,1,0,['bias'],0,1,1,1,1
+2023-02-18,1.62705E+18,LucroMap,17,3,['trust'],0,0,0,0,0
+2023-01-19,1.61616E+18,matthewalteray,1,0,['ethics'],0,0,0,0,0
+2023-01-09,1.61229E+18,jimboot,0,0,['regulate'],0,1,0,0,0
+2023-02-22,1.62846E+18,IEthics,3,2,['ethics'],0,0,0,0,0
+2023-01-11,1.6133E+18,anukasan1977,0,0,['automation'],1,1,1,0,1
+2023-02-25,1.62951E+18,SiamakKalhor,0,0,['safe'],0,0,1,1,1
+2023-01-19,1.6159E+18,shanftl,1,0,['governors'],1,0,1,0,1
+2023-01-08,1.61222E+18,Livadas,0,0,['explain'],0,0,0,0,0
+2023-03-04,1.63213E+18,NNNS_chemistry,0,0,['explain'],0,0,0,0,0
+2023-01-24,1.61798E+18,markauskaite,42,9,['response'],0,0,0,0,0
+2023-01-30,1.62011E+18,TuxCare_,0,0,['security'],1,1,1,1,1
+2023-02-20,1.62769E+18,d_rk78,0,0,['safeguarding'],0,0,0,0,0
+2023-03-15,1.63603E+18,RealShaunBailey,0,0,['guardrails'],0,0,0,0,0
+2023-03-16,1.63644E+18,AlexWattsBlog,1,0,['automate'],0,0,0,0,0
+2023-03-10,1.63424E+18,Tim_Acker,0,0,"['security', 'security']",1,1,1,1,1
+2023-02-13,1.62521E+18,MarshaCollier,2,2,['account'],0,0,0,0,0
+2023-01-14,1.61417E+18,Iam_MrPai,1,0,['trust'],0,0,1,1,1
+2023-03-18,1.63713E+18,FrRonconi,125,59,['labordeolivier'],0,1,1,1,1
+2023-02-11,1.62446E+18,bunkybun,1,0,['privacy'],1,1,1,1,1
+2023-03-15,1.63602E+18,ColorTokensInc,0,0,['securing'],0,0,0,0,0
+2023-03-10,1.63404E+18,danfinlay,1,0,['automated'],0,0,0,0,0
+2023-03-02,1.63129E+18,ReneRobichaud,1,0,['security'],0,0,0,0,0
+2023-02-13,1.62511E+18,TheFuturumGroup,1,0,['trust'],0,0,0,0,0
+2023-02-19,1.62728E+18,magdaborowik,0,0,['risk'],1,0,1,1,1
+2023-03-18,1.63716E+18,NinaPalolahti,1,0,['sustainability'],0,0,0,0,0
+2023-03-22,1.63833E+18,IEthics,1,1,['ethics'],0,0,0,0,0
+2023-03-08,1.63342E+18,NatStephen,2,0,"['biased', 'bias', 'stereotypes']",1,1,1,1,1
+2023-02-27,1.63022E+18,vikrant_sharma,4,2,"['explainer', 'explains']",0,0,0,0,0
+2023-02-18,1.62685E+18,Sion_Smith,0,0,['automation'],0,0,0,0,0
+2023-03-28,1.64055E+18,alvinfoo,21,15,['risk'],1,1,1,1,1
+2023-01-10,1.61288E+18,MPBorman,0,1,"['governance', 'automation']",0,0,0,0,0
+2023-01-24,1.61784E+18,ShanazSukhdeo,1,0,"['risk', 'ethic', 'ethic']",0,0,0,0,0
+2023-01-04,1.61075E+18,HDogetagonist,0,0,['ethical'],0,0,0,0,0
+2023-02-02,1.62095E+18,sarbjeetjohal,1,0,['response'],0,0,0,0,0
+2023-02-21,1.62802E+18,koping3377,0,0,['automatic'],0,0,0,0,0
+2023-03-23,1.63892E+18,AonghusMcGovern,0,0,"['harm', 'harm', 'ethicalai']",1,1,1,1,1
+2023-03-25,1.63968E+18,bhagirathl,2,0,"['ethicsinai', 'responsibleai', 'ethicsmatter']",0,0,0,0,0
+2023-01-06,1.6115E+18,Malcolmknows,3,0,['response'],0,0,0,0,0
+2023-03-16,1.63644E+18,ChristakisLoiz9,0,0,['responses'],0,0,0,0,0
+2023-02-10,1.62401E+18,SecEd_Education,0,0,['safeguarding'],0,0,0,0,0
+2023-03-26,1.64006E+18,CryptoTendy,1,0,['trust'],0,0,0,0,0
+2023-02-21,1.62803E+18,neurohub_ai,0,4,['hallucinations'],0,0,0,0,0
+2023-01-14,1.61418E+18,manoj_mafiosi,1,0,['bias'],1,0,1,0,1
+2023-02-17,1.62651E+18,machinegunZeus,3,1,"['manipulate', 'manipulation']",1,1,1,1,1
+2023-02-17,1.62662E+18,dilipkashyap07,1,0,['automation'],0,0,0,0,0
+2023-01-31,1.62025E+18,TrumpMuse,1,0,"['bias', 'biased']",1,0,1,1,1
+2023-03-16,1.63635E+18,VpnZone,1,0,['automate'],0,0,0,0,0
+2023-03-20,1.63773E+18,azataiot,1,0,['accounts'],0,0,0,0,0
+2023-02-12,1.62487E+18,TheSoftwareSage,0,0,"['response', 'jailbreakchatgpt']",1,1,1,1,1
+2023-03-23,1.63904E+18,lutzid,14,3,"['automated', 'transparency', 'labor']",1,0,1,0,0
+2023-03-18,1.63695E+18,CyberMunda01,0,0,"['jailbreak', 'security', 'jailbreak']",1,1,1,1,1
+2023-01-21,1.61691E+18,ShanazSukhdeo,1,0,['accountants'],0,0,0,0,0
+2023-03-10,1.63411E+18,richardkimphd,1,2,['security'],1,1,1,1,1
+2023-02-17,1.62651E+18,Kattenkopjes,2,1,['misinformation'],0,0,0,0,0
+2023-02-12,1.62473E+18,Khulood_Almani,4,0,['labordeolivier'],0,0,0,0,0
+2023-02-05,1.6221E+18,iamsashamaxim,1,0,"['responses', 'bias']",1,0,1,1,1
+2023-01-05,1.61081E+18,BlackTechSecPro,2,2,['security'],0,0,0,0,0
+2023-02-23,1.62867E+18,hackerrank_AtoZ,0,0,['safety'],1,0,0,0,0
+2023-03-08,1.63342E+18,invinciblesaad,1,0,['ethics'],0,0,0,0,0
+2023-02-10,1.62393E+18,About_Partha,0,0,"['response', 'response']",0,0,0,0,0
+2023-03-09,1.63396E+18,hasdid,1,1,['automated'],0,0,0,0,0
+2023-01-18,1.61551E+18,island_expat,0,0,['account'],0,0,0,0,0
+2023-02-20,1.62763E+18,RJ_Howes,0,0,['misinformation'],1,0,0,0,0
+2023-03-12,1.63501E+18,Wisdom4_all,5,0,['justice'],0,0,0,0,0
+2023-03-16,1.63634E+18,mantisnlp,0,0,"['responses', 'hallucinations']",1,0,1,1,1
+2023-03-09,1.63384E+18,8020vision,0,0,['account'],0,0,0,0,0
+2023-02-25,1.62938E+18,gupshup,0,0,['automatically'],0,0,0,0,0
+2023-02-20,1.62773E+18,krishanvadher,0,0,['automatedsarcasmgenerator'],0,0,0,0,0
+2023-03-16,1.6363E+18,The_Row_House,6,0,['regulateai'],1,0,1,1,1
+2023-01-11,1.61322E+18,aam0333,1,0,['response'],0,0,0,0,0
