@@ -43,8 +43,8 @@ This repository contains the code, prompts, tweet IDs, classification labels, an
 │   ├── supervised_baseline_oof_predictions.csv  # per-tweet out-of-fold predictions
 │   └── mcnemar_pairwise_results.csv        # six pairwise McNemar results
 ├── fewshot/
-│   ├── fewshot_validation_dataset.csv      # 385-sample validation dataset used for few-shot evaluation
 │   ├── fewshot_examples_20.csv             # fixed 20-example few-shot prompt set
+│   ├── fewshot_validation_dataset.csv      # 385-sample validation dataset used for few-shot evaluation
 │   ├── fewshot_validation_experiment.ipynb # notebook for four-LLM few-shot validation experiments
 │   └── results/
 │       ├── gpt-4.1_predictions.csv         # GPT-4.1 few-shot prediction outputs
